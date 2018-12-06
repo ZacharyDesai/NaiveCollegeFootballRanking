@@ -1,0 +1,130 @@
+ALA Alabama
+OHST Ohio State
+USC USC
+FSU Florida State
+CLEM Clemson
+WASH Washington
+OKLA Oklahoma
+PSU Penn State
+WISC Wisconsin
+OKST Oklahoma State
+AUB Auburn
+MICH Michigan
+LSU LSU
+STAN Stanford
+UGA Georgia
+FLA Florida
+LOU Louisville
+MIA Miami (FL)
+TENN Tennessee
+WVU West Virginia
+KSU Kansas State
+USF South Florida
+VT Virginia Tech
+UTAH Utah
+TCU TCU
+GT Georgia Tech
+WSU Washington State
+ARK Arkansas
+TEX Texas
+ORE Oregon
+BSU Boise State
+PITT Pittsburgh
+NW Northwestern
+ND Notre Dame
+IOWA Iowa
+TAMU Texas A&M
+NEB Nebraska
+UNC North Carolina
+NCSU NC State
+COLO Colorado
+BYU BYU
+UCLA UCLA
+MSST Mississippi State
+MINN Minnesota
+MISS Ole Miss
+SC South Carolina
+UK Kentucky
+BAY Baylor
+MSU Michigan State
+NAVY Navy
+WKU Western Kentucky
+HOU Houston
+MEM Memphis
+VAN Vanderbilt
+TOL Toledo
+SDSU San Diego State
+ASU Arizona State
+APP Appalachian State
+MIZZ Missouri
+TTU Texas Tech
+MARY Maryland
+TEM Temple
+CSU Colorado State
+WAKE Wake Forest
+ARIZ Arizona
+WYO Wyoming
+IND Indiana
+AFA Air Force
+TLSA Tulsa
+ORST Oregon State
+WMU Western Michigan
+CAL California
+SYR Syracuse
+TROY Troy
+DUKE Duke
+BC Boston College
+LT Louisiana Tech
+UCF Central Florida
+ISU Iowa State
+MTSU Middle Tennessee
+AKST Arkansas State
+NM New Mexico
+OHIO Ohio
+ARMY Army
+UVA Virginia
+CMU Central Michigan
+CIN Cincinnati
+ILL Illinois
+SMU SMU
+PUR Purdue
+ODU Old Dominion
+HAW Hawai'i
+USM Southern Miss
+NIU Northern Illinois
+IDA Idaho
+USU Utah State
+MIOH Miami (OH)
+GASO Georgia Southern
+KU Kansas
+RUTG Rutgers
+USA South Alabama
+UTSA UTSA
+ULL UL Lafayette
+BGU Bowling Green
+EMU Eastern Michigan
+ECU East Carolina
+CONN Connecticut
+TUL Tulane
+MRSH Marshall
+NEV Nevada
+UNLV UNLV
+SJSU San Jose State
+FIU Florida International
+BALL Ball State
+FAU Florida Atlantic
+AKR Akron
+UNT North Texas
+RICE Rice
+COCA Coastal Carolina
+GAST Georgia State
+UTEP UTEP
+FRES Fresno State
+ULM UL Monroe
+NMSU New Mexico State
+KENT Kent State
+BUFF Buffalo
+CHAR Charlotte
+TXST Texas State
+MASS Massachusetts
+UAB UAB
